@@ -33,4 +33,22 @@ Moving forward, I created a dynamic and visually compelling dashboard within MS 
 **January 2015**
 ![Jan - 2015](https://github.com/AashishhSharmaa/Pizza_Sales_Power-BI_Dashboard/assets/152653168/c895258c-fe01-452d-a7a7-14b34adb6373)
 
+**April 2015**
+![April - 2015](https://github.com/AashishhSharmaa/Pizza_Sales_Power-BI_Dashboard/assets/152653168/a17db4aa-5879-4bdf-a929-9c4d1aaee078)
+
+**October 2015**
+![Oct - 2015](https://github.com/AashishhSharmaa/Pizza_Sales_Power-BI_Dashboard/assets/152653168/af89e17e-7f4f-4c82-9ea3-eb4ed754dc98)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
