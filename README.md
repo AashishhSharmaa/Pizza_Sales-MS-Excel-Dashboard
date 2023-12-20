@@ -1,4 +1,4 @@
-##Problem Statement:
+## Problem Statement:
 
 The Sales Manager has requested a thorough analysis of key indicators within our pizza sales data to gain insights into our business performance. In addition to this analysis, the manager has specified the creation of an interactive dashboard using Microsoft Excel, allowing for real-time visualization of critical metrics. Furthermore, the manager has emphasized the need for a comprehensive report generated through Microsoft SQL, providing a structured overview of the findings.
 
