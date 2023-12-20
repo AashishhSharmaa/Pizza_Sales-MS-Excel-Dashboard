@@ -1,6 +1,12 @@
+## Pizza Sales Insights 
+
+I designed a Microsoft Excel dashboard to efficiently analyze pivotal metrics and charts, streamlining the assessment of pizza sales data for a comprehensive understanding of business performance in 2015. The visually presented key performance indicators (KPIs) offered actionable insights, empowering the sales director to address and enhance identified business issues.
+
+![Sales Insights](https://github.com/AashishhSharmaa/Pizza_Sales_Power-BI_Dashboard/assets/152653168/7f1077eb-3021-4c9b-9ca9-ca57a4916075)
+
 ## Problem Statement
 
-The Sales Manager has requested a thorough analysis of key indicators within our pizza sales data to gain insights into our business performance. In addition to this analysis, the manager has specified the creation of an interactive dashboard using Microsoft Excel, allowing for real-time visualization of critical metrics. Furthermore, the manager has emphasized the need for a comprehensive report generated through Microsoft SQL, providing a structured overview of the findings.
+The Sales Manager has requested a thorough analysis of key indicators within pizza sales data to gain insights into business performance. In addition to this analysis, the manager has specified the creation of an interactive dashboard using Microsoft Excel, allowing for real-time visualization of critical metrics. Furthermore, the manager has emphasized the need for a comprehensive report generated through Microsoft SQL, providing a structured overview of the findings.
 
 The challenge at hand involves exploring the sales data to uncover trends, patterns, and customer behaviors that will inform strategic decision-making. The resulting interactive dashboard in Microsoft Excel should provide a user-friendly interface for dynamically understanding the data. Simultaneously, the Microsoft SQL report should offer a detailed narrative, consolidating the analytical results and recommendations for optimizing our pizza sales strategy.
 
