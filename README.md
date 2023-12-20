@@ -30,3 +30,7 @@ To fulfill the Sales Manager's request, I initiated a comprehensive analysis by 
 
 Moving forward, I created a dynamic and visually compelling dashboard within MS Excel. Employing pivot tables for thorough evaluation and generation of insightful answers, I incorporated visually informative charts highlighting key metrics such as total revenue for the year 2015, along with daily and hourly sales trends. To further enhance user interactivity, I integrated a slicer enabling the examination of data for specific months. Exemplifying this functionality, data for January, April, and October was presented, providing a detailed and customizable view of our pizza sales performance throughout the specified time period.
 
+**January 2015**
+![Jan - 2015](https://github.com/AashishhSharmaa/Pizza_Sales_Power-BI_Dashboard/assets/152653168/c895258c-fe01-452d-a7a7-14b34adb6373)
+
+
