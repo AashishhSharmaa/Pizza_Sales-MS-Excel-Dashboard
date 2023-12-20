@@ -45,6 +45,17 @@ Moving forward, I created a dynamic and visually compelling dashboard within MS 
 **October 2015**
 ![Oct - 2015](https://github.com/AashishhSharmaa/Pizza_Sales_Power-BI_Dashboard/assets/152653168/af89e17e-7f4f-4c82-9ea3-eb4ed754dc98)
 
+## Project Skill Outcome
+
+1. Microsoft Excel Proficiency (including Pivot Tables)
+2. Microsoft SQL Expertise
+3. KPI Implementation
+4. Exploratory Data Analysis (EDA)
+5. Data Cleaning
+6. Data Processing
+7. Data Visualization Skills (including Pivot Tables)
+8. Storytelling through Data
+
 
 
 
